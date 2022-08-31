@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hi i am sohail</h1>
+</body>
+<script>
+    // let a = 42;
+    // let b = 21;
+    // console.log(a/b);
+
+    // let name = "cookie monster"
+    // console.log('i am the $(name)');
+
+    // const myString = "Web Development";
+    // myString = myString.concat(" is fun"); //concat is used to concatenate two strings
+    // console.log(myString);
+
+    //     let bar = () => 1;
+    // let foo = () => { console.log("Hello") };
+
+    // let oldArray = [0, 1, 2, 3];
+    // let newArray = oldArray.map(n => n * 2);
+
+    // console.log("hello bhai");
+
+    
+
+
+    
+</script>
+</html>
+
